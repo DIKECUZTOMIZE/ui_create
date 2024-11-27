@@ -1,7 +1,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_basic/6.gridView_widget/2.grideView_builder/items_dynamic/count.dart';
+import 'package:ui_part/sateLess/6.gridView_widget/2.grideView_builder/items_dynamic/count.dart';
 
 void main(){
   runApp(Dynamic2());

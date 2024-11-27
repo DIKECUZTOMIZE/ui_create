@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_basic/7.navigation/2.%20replachment/2.body.dart';
+import 'package:ui_part/sateLess/7.navigation/2.%20replachment/2.body.dart';
 
 class ReplacmentBody1 extends StatelessWidget{
   @override

@@ -4,7 +4,7 @@
 //first screen :Intro screen mane : Imformation show kore jene Skip and next ,
 //splashPage t time aru   navigator .push replacement use kora jai
 
-import 'package:flutter_basic/8.splashPage/homePage.dart';
+import 'package:ui_part/sateLess/8.splashPage/homePage.dart';
 import 'dart:async';
 
 import 'package:flutter/material.dart';
